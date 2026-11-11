@@ -1,0 +1,69 @@
+Prompt 1:
+"1 Buat akun Git Hub atas nama Anda sendiri dan buat Repository "Komputasi Numerik"
+2 Buat akun Google Colaboration Research atas nama Anda sendiri
+3 Buat akun LinkedIn atas nama Anda sendiri
+4 Simpan Link2 akun2 Anda tersebut pada file .txt dan simpan pada Repository "Komputasi Numerik" di Github
+5 Buat Algoritma Penyelesaian Sistem Persamaan Linear 3 variabel dan simpan pada Repository "Komputasi Numerik" di Github
+6 Buat kode Python pada Google Colab berdasarkan nomor 5, dan simpan pada Repository "Komputasi Numerik" di Github. Pastikan kode tertata dalam cell-cell sehingga bisa di Running pada tiap cell.
+7 Edit kode Python tersebut di Github dengan menambahkan keterangan detail penjelasan tiap baris kode atau cell.
+8 Nomor 5-7 Anda bisa meminta bantuan platform AI andalan masing2
+9 Simpan seluruh prompt AI yang Anda gunakan dalam sebuah file .txt dan simpan pada Repository "Komputasi Numerik" di Github
+10 Buat video penjelasan no. 5-8 dengan total durasi maksimal 5 menit : dengan wajah dan suara Anda sedang berbicara menjelaskan selama minimal 15 detik, sisanya gambar slide layar dan tampilan kode di Google Colab + suara penjelasan Anda tanpa menampilkan wajah.
+11 Simpan video dalam bentuk .mp4 dan simpan pada Repository "Komputasi Numerik" di Github
+12 Buat langkah yang sama mulai no.5-10 untuk Penyelesaian Sistem Persamaan Non Linear metode Bisection
+13 Simpan link Repository "Komputasi Numerik" di Github Anda pada akun LnkedIn Anda sebagai portofolio
+
+bantu saya melakukan ini beritahu saya caranya"
+
+Prompt 2 (disertai screenshot halaman Create a new repository):
+"tidak ada pilihan insert file di repo"
+
+Prompt 3 (disertai screenshot halaman repository kosong):
+"dimana masukkan file txtnya"
+
+Prompt 4 (disertai screenshot repository yang sudah berisi file):
+"apakah ini sudah ?"
+
+--- Bagian 2: Algoritma SPL 3 variabel (no. 5) ---
+
+Prompt 5:
+"nomor 5 dikerjakan di google colab?"
+
+Prompt 6:
+"bisakah kamu hilangkan angka 1 sampai 7 ?"
+
+Prompt 7:
+"buat jawaban nomor 5 jika aku masukkan metode substitusi apakah bisa?"
+
+--- Bagian 3: Kode Python di Google Colab (no. 6) ---
+
+Prompt 8:
+"kerjakan nomor 6 berdasarkan jawaban nomor 5"
+
+Prompt 9:
+"buat versi nomor 6 tanpa penjelasan"
+
+Prompt 10 (disertai screenshot error NameError):
+"bagian ini eror"
+
+Prompt 11:
+"itu cell berapa"
+
+Prompt 12 (disertai screenshot cell berwarna merah):
+"mengapa itu merah"
+
+Prompt 13 (disertai screenshot hasil running):
+"apakah ini sudah benar?"
+
+--- Bagian 4: Penjelasan detail tiap baris kode (no. 7) ---
+
+Prompt 14:
+"tambahkan penjelasan detail dalam no 7 seperti kodingan yang sudah di revisi tadi"
+
+--- Bagian 5: Rekap prompt (no. 9) ---
+
+Prompt 15:
+"bisakah kamu merekap prompt yang saya gunakan untuk mengerjakan nomor 9"
+
+--- Bagian 6: Metode Bisection (no. 12) ---
+(Tambahkan prompt untuk Bisection di sini setelah dikerjakan)
