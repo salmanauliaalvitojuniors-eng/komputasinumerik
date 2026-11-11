@@ -1,0 +1,12 @@
+Mulai
+Input fungsi f(x), batas bawah a, batas atas b, toleransi error, dan iterasi maksimum
+Hitung f(a) dan f(b)
+Jika f(a) * f(b) >= 0, tampilkan pesan "tidak ada akar terjamin di selang [a,b]" lalu berhenti
+Ulangi sampai konvergen atau iterasi maksimum tercapai:
+   - Hitung titik tengah: c = (a + b) / 2
+   - Hitung f(c)
+   - Jika |f(c)| < toleransi atau (b - a) / 2 < toleransi, maka c adalah akar, hentikan perulangan
+   - Jika f(a) * f(c) < 0, akar berada di [a, c], maka b = c
+   - Jika tidak, akar berada di [c, b], maka a = c
+Tampilkan akar hampiran c, nilai f(c), dan jumlah iterasi
+Selesai
