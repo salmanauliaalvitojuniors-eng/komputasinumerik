@@ -1,0 +1,16 @@
+Mulai
+Meng input koefisien a1, b1, c1, d1, a2, b2, c2, d2, a3, b3, c3, d3
+Jika a1 = 0, tukar persamaan 1 dengan persamaan lain yang koefisien x-nya tidak nol
+Dari persamaan 1, nyatakan x:
+   x = (d1 - b1*y - c1*z) / a1
+Substitusikan x ke persamaan 2 dan 3, sehingga diperoleh dua persamaan baru dengan variabel y dan z:
+   p1*y + q1*z = r1   dengan p1 = b2 - a2*b1/a1, q1 = c2 - a2*c1/a1, r1 = d2 - a2*d1/a1
+   p2*y + q2*z = r2   dengan p2 = b3 - a3*b1/a1, q2 = c3 - a3*c1/a1, r2 = d3 - a3*d1/a1
+Jika p1 = 0, tukar kedua persamaan baru tersebut
+Dari persamaan baru pertama, nyatakan y:
+   y = (r1 - q1*z) / p1
+Substitusikan y ke persamaan baru kedua, sehingga diperoleh satu persamaan dengan variabel z:
+   z = (r2 - p2*r1/p1) / (q2 - p2*q1/p1)
+Substitusikan nilai z ke rumus y, lalu substitusikan y dan z ke rumus x
+Tampilkan x, y, z
+Selesai
