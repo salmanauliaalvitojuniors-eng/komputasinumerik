@@ -1,0 +1,8 @@
+Prompt 16:
+"untuk nomor 12 buatkan versi nomor 5 hingga 7 nya"
+
+Prompt 17 (terkait penamaan notebook SPL no. 6):
+"apa nama notebook untuk nomor 6"
+
+Prompt 18:
+"rangkum juga prompt ai yang sudah saya lakukan untuk nomor 12"
