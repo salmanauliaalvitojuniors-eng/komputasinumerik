@@ -1,5 +1,5 @@
 Prompt 1:
-"1 Buat akun Git Hub atas nama Anda sendiri dan buat Repository "Komputasi Numerik"
+1 Buat akun Git Hub atas nama Anda sendiri dan buat Repository "Komputasi Numerik"
 2 Buat akun Google Colaboration Research atas nama Anda sendiri
 3 Buat akun LinkedIn atas nama Anda sendiri
 4 Simpan Link2 akun2 Anda tersebut pada file .txt dan simpan pada Repository "Komputasi Numerik" di Github
@@ -13,7 +13,7 @@ Prompt 1:
 12 Buat langkah yang sama mulai no.5-10 untuk Penyelesaian Sistem Persamaan Non Linear metode Bisection
 13 Simpan link Repository "Komputasi Numerik" di Github Anda pada akun LnkedIn Anda sebagai portofolio
 
-bantu saya melakukan ini beritahu saya caranya"
+bantu saya untuk melakukan ini, beritahu saya caranya
 
 Prompt 2 (disertai screenshot halaman Create a new repository):
 "tidak ada pilihan insert file di repo"
@@ -66,4 +66,4 @@ Prompt 15:
 "bisakah kamu merekap prompt yang saya gunakan untuk mengerjakan nomor 9"
 
 --- Bagian 6: Metode Bisection (no. 12) ---
-(Tambahkan prompt untuk Bisection di sini setelah dikerjakan)
+(Tambahkan prompt untuk Bisection di sini setelah berhasil dikerjakan)
